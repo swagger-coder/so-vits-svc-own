@@ -1,0 +1,10 @@
+dataset/zhibo12/zhibo12/zhibo12_2.wav
+dataset/zhibo12/zhibo12/zhibo12_5.wav
+dataset/zhibo12/zhibo12/zhibo12_1.wav
+dataset/zhibo12/zhibo12/zhibo12_10.wav
+dataset/zhibo12/zhibo12/zhibo12_4.wav
+dataset/zhibo12/zhibo12/zhibo12_3.wav
+dataset/zhibo12/zhibo12/zhibo12_9.wav
+dataset/zhibo12/zhibo12/zhibo12_0.wav
+dataset/zhibo12/zhibo12/zhibo12_6.wav
+dataset/zhibo12/zhibo12/zhibo12_11.wav

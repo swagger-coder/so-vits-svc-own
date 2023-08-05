@@ -1,0 +1,8 @@
+dataset/zhibo03/zhibo03/zhibo03_0.wav
+dataset/zhibo03/zhibo03/zhibo03_6.wav
+dataset/zhibo03/zhibo03/zhibo03_9.wav
+dataset/zhibo03/zhibo03/zhibo03_8.wav
+dataset/zhibo03/zhibo03/zhibo03_1.wav
+dataset/zhibo03/zhibo03/zhibo03_3.wav
+dataset/zhibo03/zhibo03/zhibo03_5.wav
+dataset/zhibo03/zhibo03/zhibo03_4.wav

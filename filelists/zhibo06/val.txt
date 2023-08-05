@@ -1,0 +1,2 @@
+dataset/zhibo06/zhibo06/zhibo06_32.wav
+dataset/zhibo06/zhibo06/zhibo06_8.wav
